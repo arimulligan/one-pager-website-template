@@ -48,6 +48,18 @@ nav a:hover{
 	font-weight: bolder;
 }
 
+h1{
+	font-size: 50px;
+}
+
+h2{
+	text-align: left;
+	padding-left: 3%;
+}
+
+h3{
+	text-align:center;
+}
 
 /* Simple grid */
 .g-row{
@@ -75,6 +87,11 @@ nav a:hover{
 
 .g-30{
 	width: 40%;
+	float: left;
+}
+
+.g-33{
+	width: 33%;
 	float: left;
 }
 
